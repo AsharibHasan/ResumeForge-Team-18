@@ -3,10 +3,10 @@
 > **Department:** Computer Science & Engineering (Data Science)  
 > **Industry Partner / Internship:** Manac Infotech Pvt. Ltd., Hyderabad  
 > **Under the Supervision of:** Mohammed Zama Uddin Atif  
-> **Team Members:**  
+> **Team Members:**
+> - Syed Asharibuddin Hasan (Roll No: 160923750045)  
 > - Syed Mustafa Uddin (Roll No: 160923750038)  
 > - Afraz Ullah Khan (Roll No: 160923750055)  
-> - Syed Asharibuddin Hasan (Roll No: 160923750045)  
 
 ---
 

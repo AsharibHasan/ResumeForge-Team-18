@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="100%" height="100%">
+  <rect width="1000" height="650" fill="#0f172a" />
+  
+  <!-- Top Navigation Bar -->
+  <rect x="0" y="0" width="1000" height="55" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <circle cx="35" cy="28" r="14" fill="#4f46e5" />
+  <text x="60" y="34" fill="#ffffff" font-family="sans-serif" font-size="16" font-weight="bold">ResumeForge AI</text>
+  <text x="210" y="33" fill="#94a3b8" font-family="sans-serif" font-size="13">Dashboard</text>
+  <text x="310" y="33" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="600">Resume Studio</text>
+  <text x="435" y="33" fill="#94a3b8" font-family="sans-serif" font-size="13">Skill Gap Matrix</text>
+  <text x="565" y="33" fill="#94a3b8" font-family="sans-serif" font-size="13">Interview Copilot</text>
+  <rect x="850" y="14" width="125" height="28" rx="6" fill="#4f46e5" />
+  <text x="867" y="32" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="600">Export PDF ↓</text>
+
+  <!-- Left Column: Input and Upload -->
+  <rect x="25" y="75" width="290" height="550" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="45" y="105" fill="#f8fafc" font-family="sans-serif" font-size="15" font-weight="bold">1. Document Input</text>
+  
+  <!-- Upload Box -->
+  <rect x="45" y="125" width="250" height="100" rx="6" fill="#0f172a" stroke="#4f46e5" stroke-dasharray="5" stroke-width="1.5" />
+  <text x="85" y="170" fill="#94a3b8" font-family="sans-serif" font-size="12">📄 Afraz_Resume_v2.pdf</text>
+  <text x="105" y="195" fill="#10b981" font-family="sans-serif" font-size="11" font-weight="bold">✓ Parsed Successfully</text>
+
+  <!-- JD input -->
+  <text x="45" y="255" fill="#cbd5e1" font-family="sans-serif" font-size="13" font-weight="600">Target Job Description</text>
+  <rect x="45" y="270" width="250" height="180" rx="6" fill="#0f172a" stroke="#334155" />
+  <text x="55" y="295" fill="#64748b" font-family="sans-serif" font-size="11">Data Engineer (AI/Data Platform)</text>
+  <text x="55" y="315" fill="#475569" font-family="sans-serif" font-size="11">Requirements: Python, PySpark,</text>
+  <text x="55" y="335" fill="#475569" font-family="sans-serif" font-size="11">Airflow, Kafka, SQL, Docker,</text>
+  <text x="55" y="355" fill="#475569" font-family="sans-serif" font-size="11">Cloud Data Warehousing...</text>
+
+  <rect x="45" y="480" width="250" height="40" rx="6" fill="#4f46e5" />
+  <text x="100" y="505" fill="#ffffff" font-family="sans-serif" font-size="13" font-weight="bold">⚡ Re-Analyze Fit</text>
+
+  <!-- Middle Column: Metrics & Skill Gap -->
+  <rect x="330" y="75" width="310" height="550" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="350" y="105" fill="#f8fafc" font-family="sans-serif" font-size="15" font-weight="bold">2. ATS Match &amp; Skill Gap</text>
+  
+  <!-- Score Gauge representation -->
+  <rect x="350" y="125" width="270" height="100" rx="6" fill="#0f172a" stroke="#334155" />
+  <circle cx="410" cy="175" r="32" fill="none" stroke="#334155" stroke-width="6" />
+  <circle cx="410" cy="175" r="32" fill="none" stroke="#10b981" stroke-width="6" stroke-dasharray="160 50" />
+  <text x="396" y="181" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="bold">86%</text>
+  <text x="460" y="165" fill="#f8fafc" font-family="sans-serif" font-size="14" font-weight="bold">Strong ATS Fit</text>
+  <text x="460" y="185" fill="#94a3b8" font-family="sans-serif" font-size="11">+18% over generic format</text>
+
+  <!-- Matched Skills -->
+  <text x="350" y="255" fill="#cbd5e1" font-family="sans-serif" font-size="13" font-weight="600">Matched Competencies</text>
+  <rect x="350" y="270" width="60" height="24" rx="12" fill="#064e3b" />
+  <text x="362" y="286" fill="#34d399" font-family="sans-serif" font-size="11">Python</text>
+  <rect x="420" y="270" width="50" height="24" rx="12" fill="#064e3b" />
+  <text x="432" y="286" fill="#34d399" font-family="sans-serif" font-size="11">SQL</text>
+  <rect x="480" y="270" width="65" height="24" rx="12" fill="#064e3b" />
+  <text x="492" y="286" fill="#34d399" font-family="sans-serif" font-size="11">Docker</text>
+
+  <!-- Missing Skills -->
+  <text x="350" y="325" fill="#f87171" font-family="sans-serif" font-size="13" font-weight="600">Identified Gaps (Missing from Resume)</text>
+  <rect x="350" y="340" width="100" height="24" rx="12" fill="#7f1d1d" />
+  <text x="360" y="356" fill="#fca5a5" font-family="sans-serif" font-size="11">+ Apache Airflow</text>
+  <rect x="460" y="340" width="105" height="24" rx="12" fill="#7f1d1d" />
+  <text x="470" y="356" fill="#fca5a5" font-family="sans-serif" font-size="11">+ Apache Kafka</text>
+
+  <!-- Recommendations List -->
+  <text x="350" y="400" fill="#cbd5e1" font-family="sans-serif" font-size="13" font-weight="600">Grounded Recommendations</text>
+  <rect x="350" y="415" width="270" height="180" rx="6" fill="#0f172a" stroke="#334155" />
+  <text x="360" y="440" fill="#e2e8f0" font-family="sans-serif" font-size="11" font-weight="bold">• Quantify ETL Throughput</text>
+  <text x="360" y="458" fill="#94a3b8" font-family="sans-serif" font-size="10">Add data volume processed in Project 1</text>
+  
+  <text x="360" y="490" fill="#e2e8f0" font-family="sans-serif" font-size="11" font-weight="bold">• Add Orchestration Experience</text>
+  <text x="360" y="508" fill="#94a3b8" font-family="sans-serif" font-size="10">Highlight DAG execution in Pipeline tasks</text>
+
+  <!-- Right Column: Tailoring Studio Diff -->
+  <rect x="655" y="75" width="320" height="550" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <text x="675" y="105" fill="#f8fafc" font-family="sans-serif" font-size="15" font-weight="bold">3. GenAI Tailoring Studio (Diff)</text>
+  
+  <!-- Original Bullet Box -->
+  <rect x="675" y="125" width="280" height="110" rx="6" fill="#0f172a" stroke="#334155" />
+  <text x="685" y="148" fill="#94a3b8" font-family="sans-serif" font-size="11" font-weight="bold">ORIGINAL EXPERIENCE BULLET:</text>
+  <text x="685" y="170" fill="#cbd5e1" font-family="sans-serif" font-size="11">"Worked on building data pipelines</text>
+  <text x="685" y="188" fill="#cbd5e1" font-family="sans-serif" font-size="11">using Python and SQL to clean</text>
+  <text x="685" y="206" fill="#cbd5e1" font-family="sans-serif" font-size="11">unstructured customer datasets."</text>
+
+  <!-- Down arrow -->
+  <text x="810" y="255" fill="#6366f1" font-family="sans-serif" font-size="16">▼ AI STAR Rewrite</text>
+
+  <!-- Tailored Bullet Box -->
+  <rect x="675" y="270" width="280" height="160" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1.5" />
+  <text x="685" y="293" fill="#10b981" font-family="sans-serif" font-size="11" font-weight="bold">TAILORED REWRITE (STAR FORMAT):</text>
+  <text x="685" y="318" fill="#e2e8f0" font-family="sans-serif" font-size="11">"Architected automated ETL</text>
+  <text x="685" y="338" fill="#e2e8f0" font-family="sans-serif" font-size="11">pipelines using <tspan fill="#34d399" font-weight="bold">Python &amp; SQL</tspan>,</text>
+  <text x="685" y="358" fill="#e2e8f0" font-family="sans-serif" font-size="11">reducing data latency by <tspan fill="#38bdf8" font-weight="bold">35%</tspan> across</text>
+  <text x="685" y="378" fill="#e2e8f0" font-family="sans-serif" font-size="11">1.2M+ daily event records."</text>
+
+  <rect x="685" y="445" width="130" height="32" rx="4" fill="#10b981" />
+  <text x="705" y="466" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold">✓ Accept Bullet</text>
+
+  <rect x="825" y="445" width="130" height="32" rx="4" fill="#334155" />
+  <text x="850" y="466" fill="#cbd5e1" font-family="sans-serif" font-size="12">↺ Regenerate</text>
+</svg>
